@@ -31,7 +31,7 @@ export default function Header() {
 			<div className="headChild">
 				<header>
 					<h1 className="headerLetters1">
-						Hello, I´m T-Al-D <WavingHandIcon />
+						Hello, I´m Tadd <WavingHandIcon />
 					</h1>
 
 					<h3 className="headerLetters2">

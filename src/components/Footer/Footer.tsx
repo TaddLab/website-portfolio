@@ -18,7 +18,7 @@ export default function Footer() {
 			<div className="footer-child">
 				<h5 className="footer-content">
 					<Link
-						href="https://github.com/T-Al-D"
+						href="https://github.com/TaddLab"
 						className="footer-content"
 					>
 						<Button>

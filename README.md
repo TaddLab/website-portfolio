@@ -1,8 +1,6 @@
 # Website-Portfolio
 
-[![Deploy static content to Pages](https://github.com/T-Al-D/website-portfolio/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/T-Al-D/website-portfolio/actions/workflows/jekyll-gh-pages.yml)
-
-### Here: https://t-al-d.github.io/website-portfolio/
+### Here: https://taddlab.github.io/website-portfolio/
 
 ## A Website build with react framework (typescript + vite + mui)
 

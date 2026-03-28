@@ -22,7 +22,7 @@ export default function Footer() {
 						className="footer-content"
 					>
 						<Button>
-							T-Al-D GitHub
+							TaddLab GitHub
 							<GitHubIcon
 								sx={{
 									color: "#34ebeb",
@@ -31,7 +31,7 @@ export default function Footer() {
 						</Button>
 					</Link>
 					<Link
-						href="https://github.com/T-Al-D/website-portfolio"
+						href="https://github.com/TaddLab/website-portfolio"
 						className="footer-content"
 					>
 						<Button>
